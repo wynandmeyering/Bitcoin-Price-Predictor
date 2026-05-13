@@ -1,5 +1,8 @@
 # Bitcoin Price Predictor
 
+![Bitcoin Price Predictor main window](screenshots/bitcoin-price-predictor-main-window.png)
+
+
 Bitcoin Price Predictor is an informational, educational, and research tool for analyzing Bitcoin price data, probability paths, projection bands, calibration results, alerts, and chart-based market structure.
 
 The software is designed to help users visually explore Bitcoin price movement, compare projected probability paths, review historical calibration behavior, and monitor possible future price zones using data-driven calculations.
