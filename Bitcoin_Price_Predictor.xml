@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>PAD Creator Python Tkinter - Bitcoin Price Predictor defaults</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description (PAD) file for Bitcoin Price Predictor, a Windows BTCUSDT projection and charting tool.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Wynand Meyring</Company_Name>
+    <Address_1/>
+    <Address_2/>
+    <City_Town/>
+    <State_Province/>
+    <Zip_Postal_Code/>
+    <Country>South Africa</Country>
+    <Company_WebSite_URL>https://github.com/wynandmeyering/Bitcoin-Price-Predictor</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Wynand</Author_First_Name>
+      <Author_Last_Name>Meyring</Author_Last_Name>
+      <Author_Email>wynandmeyering@gmail.com</Author_Email>
+      <Contact_First_Name>Wynand</Contact_First_Name>
+      <Contact_Last_Name>Meyring</Contact_Last_Name>
+      <Contact_Email>wynandmeyering@gmail.com</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>wynandmeyering@gmail.com</Sales_Email>
+      <Support_Email>wynandmeyering@gmail.com</Support_Email>
+      <General_Email>wynandmeyering@gmail.com</General_Email>
+      <Sales_Phone/>
+      <Support_Phone/>
+      <General_Phone/>
+      <Fax_Phone/>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>Bitcoin Price Predictor</Program_Name>
+    <Program_Version>1.00</Program_Version>
+    <Program_Release_Month>05</Program_Release_Month>
+    <Program_Release_Day>08</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Cost_Other_Code/>
+    <Program_Cost_Other>Donations optional</Program_Cost_Other>
+    <Program_Type>Demo</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win11,Win10 x64,Win10 x32</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>Initial public release of Bitcoin Price Predictor v1.00 for Windows. Includes BTCUSDT 15-minute data loading, historical candle download on first run, calibration rebuild, probability path visualization, projection bands, alerts, chart tools, and export-focused research features.</Program_Change_Info>
+    <Program_Specific_Category>Finance</Program_Specific_Category>
+    <Program_Category_Class>Business::Investment Tools</Program_Category_Class>
+    <Program_System_Requirements>Windows 10 or Windows 11. Internet connection recommended for BTCUSDT market data updates. The standalone installer includes the required Python runtime and packages.</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>304147</File_Size_Bytes>
+      <File_Size_K>297</File_Size_K>
+      <File_Size_MB>0.29</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count/>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Other_Info>No fixed expiration configured in the provided package.</Expire_Other_Info>
+      <Expire_Month/>
+      <Expire_Day/>
+      <Expire_Year/>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>bitcoin price predictor, BTCUSDT, Bitcoin charting, crypto projection, price projection, market visualization, cryptocurrency analysis, Bitcoin alerts, chart overlays, projection bands</Keywords>
+      <Char_Desc_45>BTCUSDT projection and charting tool</Char_Desc_45>
+      <Char_Desc_80>Bitcoin Price Predictor is a BTCUSDT projection and charting tool for Windows.</Char_Desc_80>
+      <Char_Desc_250>Bitcoin Price Predictor is a Windows BTCUSDT market visualization and price projection tool that displays recent Bitcoin price movement, possible future projection paths, probability bands, alerts, bookmarks, chart overlays, and export options.</Char_Desc_250>
+      <Char_Desc_450>Bitcoin Price Predictor is a Windows BTCUSDT market visualization and price projection tool. It helps users review recent Bitcoin movement, possible future projection paths, probability bands, horizon markers, chart overlays, configurable alerts, bookmarks, calibration rebuilds, and exports to PDF, CSV, and XLSX. It is a research and visualization tool only, not financial advice or a trading bot.</Char_Desc_450>
+      <Char_Desc_2000>Bitcoin Price Predictor is a Windows BTCUSDT market visualization and price projection tool. It displays recent Bitcoin price movement together with possible future projection paths, probability bands, horizon markers, chart overlays, configurable alerts, bookmarks, calibration rebuild tools, and export options. The software is intended for informational, educational, research, and visualization purposes only. It is not a trading bot and does not provide financial, investment, or trading advice.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://github.com/wynandmeyering/Bitcoin-Price-Predictor</Application_Info_URL>
+      <Application_Order_URL>https://www.paypal.com/ncp/payment/8UREBT87TPNFJ</Application_Order_URL>
+      <Application_Screenshot_URL>https://raw.githubusercontent.com/wynandmeyering/Bitcoin-Price-Predictor/main/screenshots/bitcoin-price-predictor-main-window.png</Application_Screenshot_URL>
+<Application_Icon_URL>https://raw.githubusercontent.com/wynandmeyering/Bitcoin-Price-Predictor/main/icons/bitcoin-price-predictor-icon.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/wynandmeyering/Bitcoin-Price-Predictor/main/Bitcoin_Price_Predictor.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/wynandmeyering/Bitcoin-Price-Predictor/releases/download/v1.00/Bitcoin-Price-Predictor-v1.00-Windows-Installer.zip</Primary_Download_URL>
+      <Secondary_Download_URL/>
+      <Additional_Download_URL_1/>
+      <Additional_Download_URL_2/>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Permission is granted to distribute the unmodified Bitcoin Price Predictor installer package provided that the package is not altered, reverse engineered, bundled with unwanted software, sold as a separate product, or represented as financial, investment, or trading advice.</Distribution_Permissions>
+    <EULA>Support Bitcoin Price Predictor
+If you find this software useful and would like to support development, maintenance, data tools, and future features, donations are appreciated but never required.
+Paypal Donation link:
+Click here to donate with PayPal
+Donate cryptocurrency
+Thank you for supporting the project.
+Terms of Use
+By using this software, you acknowledge and agree that Bitcoin Price Predictor is provided for informational, educational, research, and visualization purposes only. It does not provide financial advice, investment advice, trading advice, tax advice, legal advice, or recommendations to buy, sell, short, hold, trade, or invest in any asset.
+Bitcoin Price Predictor is not a trading bot and does not place trades. The software does not manage accounts, funds, orders, exchanges, brokers, wallets, margin, leverage, or positions for the user.
+Trading and investing involve risk. Cryptocurrency, futures, margin, and leveraged trading can result in substantial losses, including total loss of capital. If users independently choose to trade futures or use leverage, they should understand that leverage can greatly increase losses and may result in liquidation. The software does not recommend or encourage leveraged trading. Users who independently choose to use leverage should consider using the absolute minimum leverage available, such as 1x or 2x, and should always use a stop-loss order. Users should only trade with funds they can afford to lose.
+The projections, probability paths, projection bands, alerts, indicators, calibration results, chart overlays, exported files, summaries, and any other outputs generated by this software are estimates based on historical data, assumptions, calculations, model settings, user settings, and third-party data sources. These outputs may be inaccurate, delayed, incomplete, outdated, or affected by data errors, software bugs, connectivity issues, API failures, market volatility, exchange problems, incorrect configuration, missing files, or other limitations.
+No guarantee is made that the software will be accurate, reliable, uninterrupted, secure, profitable, or suitable for any particular purpose. Past performance, backtests, projections, probability estimates, and historical behavior do not guarantee future results.
+Users are responsible for independently verifying all information, market data, calculations, projections, signals, alerts, exports, and trading decisions. Users are responsible for their own risk management, position sizing, stop-loss use, account protection, and compliance with applicable laws and regulations.
+To the maximum extent permitted by law, the author(s), developer(s), contributor(s), and distributor(s) of this software cannot be held liable for any financial losses, trading losses, investment losses, loss of profits, missed opportunities, data errors, software errors, system failures, interruption of service, or any direct, indirect, incidental, consequential, special, punitive, or other damages arising from or related to the use of this software.
+By clicking Accept, you acknowledge that you understand and accept these terms, that you use Bitcoin Price Predictor entirely at your own risk, and that the author(s), developer(s), contributor(s), and distributor(s) cannot be held liable for any resulting financial losses or other damages.</EULA>
+  </Permissions>
+  <Affiliates>
+    <Affiliates_FORM>Y</Affiliates_FORM>
+    <Affiliates_VERSION>1.4</Affiliates_VERSION>
+    <Affiliates_URL>http://pad.asp-software.org/extensions/Affiliates.htm</Affiliates_URL>
+    <Affiliates_Information_Page/>
+    <Affiliates_Avangate_Order_Page/>
+    <Affiliates_Avangate_Vendor_ID/>
+    <Affiliates_Avangate_Product_ID/>
+    <Affiliates_Avangate_Maximum_Commission_Rate/>
+    <Affiliates_BMTMicro_Order_Page/>
+    <Affiliates_BMTMicro_Vendor_ID/>
+    <Affiliates_BMTMicro_Product_ID/>
+    <Affiliates_BMTMicro_Maximum_Commission_Rate/>
+    <Affiliates_Cleverbridge_Order_Page/>
+    <Affiliates_Cleverbridge_Vendor_ID/>
+    <Affiliates_Cleverbridge_Product_ID/>
+    <Affiliates_Cleverbridge_Maximum_Commission_Rate/>
+    <Affiliates_clixGalore_Order_Page/>
+    <Affiliates_clixGalore_Vendor_ID/>
+    <Affiliates_clixGalore_Product_ID/>
+    <Affiliates_clixGalore_Maximum_Commission_Rate/>
+    <Affiliates_CommissionJunction_Order_Page/>
+    <Affiliates_CommissionJunction_Vendor_ID/>
+    <Affiliates_CommissionJunction_Product_ID/>
+    <Affiliates_CommissionJunction_Maximum_Commission_Rate/>
+    <Affiliates_DigiBuy_Order_Page/>
+    <Affiliates_DigiBuy_Vendor_ID/>
+    <Affiliates_DigiBuy_Product_ID/>
+    <Affiliates_DigiBuy_Maximum_Commission_Rate/>
+    <Affiliates_DigitalCandle_Order_Page/>
+    <Affiliates_DigitalCandle_Vendor_ID/>
+    <Affiliates_DigitalCandle_Product_ID/>
+    <Affiliates_DigitalCandle_Maximum_Commission_Rate/>
+    <Affiliates_Emetrix_Order_Page/>
+    <Affiliates_Emetrix_Vendor_ID/>
+    <Affiliates_Emetrix_Product_ID/>
+    <Affiliates_Emetrix_Maximum_Commission_Rate/>
+    <Affiliates_eSellerate_Order_Page/>
+    <Affiliates_eSellerate_Vendor_ID/>
+    <Affiliates_eSellerate_Product_ID/>
+    <Affiliates_eSellerate_Maximum_Commission_Rate/>
+    <Affiliates_iPortis_Order_Page/>
+    <Affiliates_iPortis_Vendor_ID/>
+    <Affiliates_iPortis_Product_ID/>
+    <Affiliates_iPortis_Maximum_Commission_Rate/>
+    <Affiliates_Kagi_Order_Page/>
+    <Affiliates_Kagi_Vendor_ID/>
+    <Affiliates_Kagi_Product_ID/>
+    <Affiliates_Kagi_Maximum_Commission_Rate/>
+    <Affiliates_LinkShare_Order_Page/>
+    <Affiliates_LinkShare_Vendor_ID/>
+    <Affiliates_LinkShare_Product_ID/>
+    <Affiliates_LinkShare_Maximum_Commission_Rate/>
+    <Affiliates_NorthStarSol_Order_Page/>
+    <Affiliates_NorthStarSol_Vendor_ID/>
+    <Affiliates_NorthStarSol_Product_ID/>
+    <Affiliates_NorthStarSol_Maximum_Commission_Rate/>
+    <Affiliates_OneNetworkDirect_Order_Page/>
+    <Affiliates_OneNetworkDirect_Vendor_ID/>
+    <Affiliates_OneNetworkDirect_Product_ID/>
+    <Affiliates_OneNetworkDirect_Maximum_Commission_Rate/>
+    <Affiliates_Order1_Order_Page/>
+    <Affiliates_Order1_Vendor_ID/>
+    <Affiliates_Order1_Product_ID/>
+    <Affiliates_Order1_Maximum_Commission_Rate/>
+    <Affiliates_Osolis_Order_Page/>
+    <Affiliates_Osolis_Vendor_ID/>
+    <Affiliates_Osolis_Product_ID/>
+    <Affiliates_Osolis_Maximum_Commission_Rate/>
+    <Affiliates_Plimus_Order_Page/>
+    <Affiliates_Plimus_Vendor_ID/>
+    <Affiliates_Plimus_Product_ID/>
+    <Affiliates_Plimus_Maximum_Commission_Rate/>
+    <Affiliates_Regnet_Order_Page/>
+    <Affiliates_Regnet_Vendor_ID/>
+    <Affiliates_Regnet_Product_ID/>
+    <Affiliates_Regnet_Maximum_Commission_Rate/>
+    <Affiliates_Regnow_Order_Page/>
+    <Affiliates_Regnow_Vendor_ID/>
+    <Affiliates_Regnow_Product_ID/>
+    <Affiliates_Regnow_Maximum_Commission_Rate/>
+    <Affiliates_Regsoft_Order_Page/>
+    <Affiliates_Regsoft_Vendor_ID/>
+    <Affiliates_Regsoft_Product_ID/>
+    <Affiliates_Regsoft_Maximum_Commission_Rate/>
+    <Affiliates_ShareIt_Order_Page/>
+    <Affiliates_ShareIt_Vendor_ID/>
+    <Affiliates_ShareIt_Product_ID/>
+    <Affiliates_ShareIt_Maximum_Commission_Rate/>
+    <Affiliates_Shareasale_Order_Page/>
+    <Affiliates_Shareasale_Vendor_ID/>
+    <Affiliates_Shareasale_Product_ID/>
+    <Affiliates_Shareasale_Maximum_Commission_Rate/>
+    <Affiliates_SWReg_Order_Page/>
+    <Affiliates_SWReg_Vendor_ID/>
+    <Affiliates_SWReg_Product_ID/>
+    <Affiliates_SWReg_Maximum_Commission_Rate/>
+    <Affiliates_V-Share_Order_Page/>
+    <Affiliates_V-Share_Vendor_ID/>
+    <Affiliates_V-Share_Product_ID/>
+    <Affiliates_V-Share_Maximum_Commission_Rate/>
+    <Affiliates_VFree_Order_Page/>
+    <Affiliates_VFree_Vendor_ID/>
+    <Affiliates_VFree_Product_ID/>
+    <Affiliates_VFree_Maximum_Commission_Rate/>
+    <Affiliates_Yaskifo_Order_Page/>
+    <Affiliates_Yaskifo_Vendor_ID/>
+    <Affiliates_Yaskifo_Product_ID/>
+    <Affiliates_Yaskifo_Maximum_Commission_Rate/>
+  </Affiliates>
+  <ASP>
+    <ASP_FORM>Y</ASP_FORM>
+    <ASP_Member>N</ASP_Member>
+    <ASP_Member_Number/>
+  </ASP>
+</XML_DIZ_INFO>
